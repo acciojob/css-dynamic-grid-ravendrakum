@@ -15,9 +15,8 @@
 .grid-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 2fr)); /* Adjust column width as needed */
-  gap: 20px; /* Adjust gap between grid items as needed */
+  gap: 10px; /* Adjust gap between grid items as needed */
   /* Add any additional styling for the grid container */
-	flex-wrap:wrap;
 }
 
 
